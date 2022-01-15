@@ -1,0 +1,16 @@
+body
+{
+    background: linear-gradient(red, orange);
+}
+#login_button
+{
+   width: 5%;
+}
+#user_name
+{
+    width: 30%;
+}
+.container
+{
+    padding-top: 100px;
+}
